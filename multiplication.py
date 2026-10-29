@@ -1,4 +1,2 @@
 def multiplication(x,y):
-    print(x*y)
-
-multiplication(15,57)
+    return x * y
